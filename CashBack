@@ -1,3 +1,7 @@
+/*
+ * 김은정
+ * 미니과제 2번
+ */
 import java.util.Scanner;
 
 public class CashBack {
