@@ -1,4 +1,7 @@
-
+/*
+ * 김은정
+ * 미니과제 1번
+ */
 public class gugudan {
 
   public static void main(String[] args) 
